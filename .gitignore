@@ -1,0 +1,7 @@
+# Temporary files
+~$*
+
+# Analysis outputs
+texas_housing_analysis_results.rds
+texas_housing_forecasts.csv
+reproducibility_report.txt
